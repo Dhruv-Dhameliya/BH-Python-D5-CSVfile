@@ -7,13 +7,6 @@ It loads a CSV file, explores the data, groups and aggregates sales, and visuali
 
 ---
 
-## 📂 Files
-- `big_sales.csv` → Sample dataset (1,000 rows of sales records)
-- `sales_analysis.ipynb` → Jupyter/Colab notebook with code
-- `README.md` → Project documentation (this file)
-
----
-
 ## 🛠️ Requirements
 - Python 3.x
 - Jupyter Notebook / Google Colab
@@ -62,13 +55,3 @@ It loads a CSV file, explores the data, groups and aggregates sales, and visuali
 - **Monthly Sales Trend**
 
 ---
-
-## ✨ Outcome
-By completing this task, you learn:
-- How to use Pandas for CSV data analysis
-- How to group and aggregate data with `groupby()` and `sum()`
-- How to visualize insights with Seaborn and Matplotlib
-
----
-
-📌 Author: *Your Name*
